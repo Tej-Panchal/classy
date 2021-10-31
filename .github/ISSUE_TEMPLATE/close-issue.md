@@ -4,7 +4,6 @@ about: Makes closing issue format consistent and easy to read
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 Closes #(issue)
