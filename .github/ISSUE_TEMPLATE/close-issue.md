@@ -9,10 +9,14 @@ assignees: ''
 
 Closes #(issue)
 
-### Key features
-* 
+### Key Features
+*
+
+<ignored text> <ISSUE_KEY> <ignored text> #<transition_name> #comment <comment_string>
+
 
 ### Future Improvements
 * 
 
 ### Notes
+*
