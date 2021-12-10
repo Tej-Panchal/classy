@@ -1,0 +1,21 @@
+52
+teacher,1,45,Jane,Doe
+student,2,25,Alvis,Holson
+student,3,25,Spenser,Hannond
+student,4,22,Joane,Ivannikov
+student,5,18,Christophe,Lavington
+assignment,48, Class Discussion:"Meet and greet!",10,This discussion forum is offered to encourage you to get to know a little bit about each other. We will also use the forum section to discuss topics throughout the course. Another way to get to know something about you is to upload your image or other appropriate graphic in the profile section of this course. Please post tasteful and appropriate images for this academic environment.,12/31/2021,23:59:00,NONE
+assignment,49,HW assignment 12.1 - 3D,36,This is a cengage assignment,08/30/2021,14:50:00,NONE
+assignment,50,HW assignment 12.2 - Vectors,31,This is a cengage assignment,09/07/2021,23:59:00,NONE
+grade,48,2,10
+grade,48,3,10
+grade,48,4,9
+grade,48,5,10
+grade,49,2,36
+grade,49,3,36
+grade,49,4,33
+grade,49,5,36
+grade,50,2,31
+grade,50,3,31
+grade,50,4,31
+grade,50,5,31
